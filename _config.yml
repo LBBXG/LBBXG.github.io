@@ -104,8 +104,8 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:LBBXG/LBBXG.github.io.git
-  branch: main
-# ·şÎñÆ÷ÅäÖÃ
+  branch: master
+# serverconfig
 server:
   port: 5000
   compress: true
