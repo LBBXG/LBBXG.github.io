@@ -84,7 +84,7 @@ git pull
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  随笔: /tags/随1笔/
 
 # SubNav
 subnav:
