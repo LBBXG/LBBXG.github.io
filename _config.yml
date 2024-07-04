@@ -106,10 +106,10 @@ deploy:
   repo: git@github.com:LBBXG/LBBXG.github.io.git
   branch: master
 # serverconfig
-server:
-  port: 5000
-  compress: true
-  header: true
+# server:
+#   port: 5000
+#   compress: true
+#   header: true
 
 
 jsonContent:
