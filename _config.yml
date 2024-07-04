@@ -105,7 +105,7 @@ deploy:
   type: git
   repo: git@github.com:LBBXG/LBBXG.github.io.git
   branch: main
-# æœåŠ¡å™¨é…ç½®
+# ·şÎñÆ÷ÅäÖÃ
 server:
   port: 5000
   compress: true
